@@ -3,7 +3,7 @@
     <property name="created">2018-12-04T15:54:41</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.0.0</property>
-    <property name="modified">2019-04-26T13:39:23</property>
+    <property name="modified">2019-05-01T02:08:56</property>
     <property name="originalScheme">Vivid Colors Scheme</property>
   </metaInfo>
   <attributes>
@@ -53,6 +53,11 @@
     <option name="HTML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="da3a4d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -144,9 +149,40 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="PHP_TAG">
+      <value>
+        <option name="FOREGROUND" value="ec9f11" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="PHP_VAR">
       <value>
         <option name="FOREGROUND" value="5875eb" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="36a251" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="ec9f11" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="df483c" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="4b92db" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="ebc808" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
