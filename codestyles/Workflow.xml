@@ -1,4 +1,11 @@
 <code_scheme name="Workflow" version="173">
+  <PHPCodeStyleSettings>
+    <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
+    <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
+    <option name="PHPDOC_WRAP_LONG_LINES" value="true" />
+    <option name="UPPER_CASE_BOOLEAN_CONST" value="true" />
+    <option name="UPPER_CASE_NULL_CONST" value="true" />
+  </PHPCodeStyleSettings>
   <DBN-PSQL>
     <case-options enabled="true">
       <option name="KEYWORD_CASE" value="lower" />
@@ -24,6 +31,7 @@
     </formatting-settings>
   </DBN-SQL>
   <codeStyleSettings language="PHP">
+    <option name="CLASS_BRACE_STYLE" value="1" />
     <option name="METHOD_BRACE_STYLE" value="1" />
   </codeStyleSettings>
 </code_scheme>
