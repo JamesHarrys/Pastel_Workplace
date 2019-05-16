@@ -3,19 +3,48 @@
     <property name="created">2018-12-04T15:54:41</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.0.0</property>
-    <property name="modified">2019-05-03T15:58:24</property>
+    <property name="modified">2019-05-16T15:51:16</property>
     <property name="originalScheme">Vivid Colors Scheme</property>
   </metaInfo>
   <attributes>
+    <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff00" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CONSOLE_RED_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff0000" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="eaca1f" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CONSOLE_YELLOW_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="c49807" />
+      </value>
+    </option>
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="5875eb" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="DEFAULT_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="4a5ee6" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="DEFAULT_ENTITY">
       <value>
-        <option name="FOREGROUND" value="1160ad" />
+        <option name="FOREGROUND" value="4a5ee6" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -66,7 +95,7 @@
     </option>
     <option name="MAGIC_MEMBER_ACCESS">
       <value>
-        <option name="FOREGROUND" value="1160ad" />
+        <option name="FOREGROUND" value="249a95" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -112,7 +141,7 @@
     </option>
     <option name="PHP_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="3877a6" />
+        <option name="FOREGROUND" value="249a95" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -133,7 +162,7 @@
     </option>
     <option name="PHP_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="7abc" />
+        <option name="FOREGROUND" value="964ab6" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
