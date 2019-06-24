@@ -9,7 +9,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="ar" value="$ARGUMENT_1$ = ($ARGUMENT_2$) =&gt; {&#10;    $END$&#10;}" description="Arrow Function" toReformat="false" toShortenFQNames="true">
+  <template name="ar" value="$ARGUMENT_1$ = ($ARGUMENT_2$) =&gt; {&#10;    $END$&#10;};" description="Arrow Function" toReformat="false" toShortenFQNames="true">
     <variable name="ARGUMENT_1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="ARGUMENT_2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
