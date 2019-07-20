@@ -3,7 +3,7 @@
     <property name="created">2018-12-04T15:54:41</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.0.0</property>
-    <property name="modified">2019-05-24T11:18:38</property>
+    <property name="modified">2019-07-20T21:27:42</property>
     <property name="originalScheme">Vivid Colors Scheme</property>
   </metaInfo>
   <attributes>
@@ -43,7 +43,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="fe4534" />
+        <option name="FOREGROUND" value="f9533b" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -57,7 +57,7 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="ffbc4b" />
+        <option name="FOREGROUND" value="e07aa8" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
@@ -85,9 +85,12 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="3cc16a" />
+        <option name="FOREGROUND" value="e7a540" />
         <option name="FONT_TYPE" value="1" />
       </value>
+    </option>
+    <option name="DEFAULT_TAG">
+      <value />
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
@@ -118,7 +121,7 @@
     </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="9370da" />
+        <option name="FOREGROUND" value="4b92db" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -129,7 +132,7 @@
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="ec9f11" />
+        <option name="FOREGROUND" value="279758" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -138,10 +141,21 @@
         <option name="FOREGROUND" value="86695c" />
       </value>
     </option>
+    <option name="JS.LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="796b" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="JS.PARAMETER">
       <value>
         <option name="FOREGROUND" value="5181d7" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="KOTLIN_LABEL">
@@ -236,6 +250,9 @@
       <value>
         <option name="FOREGROUND" value="5875eb" />
       </value>
+    </option>
+    <option name="TEXT">
+      <value />
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
