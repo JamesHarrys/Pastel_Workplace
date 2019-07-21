@@ -3,7 +3,7 @@
     <property name="created">2018-12-04T15:54:41</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.0.0</property>
-    <property name="modified">2019-07-20T21:27:42</property>
+    <property name="modified">2019-07-21T21:05:25</property>
     <property name="originalScheme">Vivid Colors Scheme</property>
   </metaInfo>
   <attributes>
@@ -127,7 +127,8 @@
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="1b5e5f" />
+        <option name="FOREGROUND" value="279758" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
@@ -250,9 +251,6 @@
       <value>
         <option name="FOREGROUND" value="5875eb" />
       </value>
-    </option>
-    <option name="TEXT">
-      <value />
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
