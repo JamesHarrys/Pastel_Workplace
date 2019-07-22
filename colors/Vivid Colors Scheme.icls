@@ -3,7 +3,7 @@
     <property name="created">2018-12-04T15:54:41</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.0.0</property>
-    <property name="modified">2019-07-22T11:29:29</property>
+    <property name="modified">2019-07-22T19:29:30</property>
     <property name="originalScheme">Vivid Colors Scheme</property>
   </metaInfo>
   <attributes>
@@ -85,7 +85,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="e7a540" />
+        <option name="FOREGROUND" value="fdbf00" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -251,9 +251,6 @@
       <value>
         <option name="FOREGROUND" value="5875eb" />
       </value>
-    </option>
-    <option name="TEXT">
-      <value />
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
