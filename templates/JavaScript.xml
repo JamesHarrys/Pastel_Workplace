@@ -4,4 +4,26 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="clgg" value="console.log('------------------------------');&#10;console.log($END$);&#10;console.log('------------------------------');" description="Console Log Group" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ar" value="$ARGUMENT_1$ = ($ARGUMENT_2$) =&gt; {&#10;    $END$&#10;};" description="Arrow Function" toReformat="false" toShortenFQNames="true">
+    <variable name="ARGUMENT_1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ARGUMENT_2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cdr" value="console.dir($END$)" description="Console Directory" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="value" value="value" description="value" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
