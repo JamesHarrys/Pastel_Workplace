@@ -2,4 +2,8 @@
   <component name="ApplicationNotificationSettings">
     <option name="lastUpdateNotification" value="1.1.0" />
   </component>
+  <component name="DiscordApplicationSettings">
+    <option name="timeoutMinutes" value="10" />
+    <option name="newProjectShow" value="SHOW" />
+  </component>
 </application>
